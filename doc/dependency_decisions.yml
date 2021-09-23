@@ -105,6 +105,20 @@
     :when: 2021-09-22 16:13:58.808962000 Z
 # Common libraries that are missing licenses
 - - :license
+  - mandrill-api
+  - MIT
+  - :who:
+    :why:
+    :versions: [ ]
+    :when: 2021-09-22 16:16:51.090377000 Z
+- - :license
+  - atlassian-jwt
+  - Apache 2.0
+  - :who:
+    :why:
+    :versions: [ ]
+    :when: 2021-09-22 16:17:09.743304000 Z
+- - :license
   - brakeman
   - MIT
   - :who:
