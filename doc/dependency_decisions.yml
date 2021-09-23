@@ -119,6 +119,20 @@
     :versions: [ ]
     :when: 2021-09-22 16:17:09.743304000 Z
 - - :license
+  - newrelic_rpm
+  - Apache 2.0
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 21:23:30.376721000 Z
+- - :license
+  - logstash-event
+  - Apache 2.0
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 21:24:11.444864000 Z
+- - :license
   - brakeman
   - MIT
   - :who:
