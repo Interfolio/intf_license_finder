@@ -1,4 +1,5 @@
 ---
+# Approved license types
 - - :permit
   - MIT
   - :who:
@@ -41,6 +42,7 @@
     :why:
     :versions: []
     :when: 2021-09-22 16:12:05.556064000 Z
+# Interfolio private gems
 - - :approve
   - byc-common
   - :who:
@@ -101,6 +103,7 @@
     :why:
     :versions: []
     :when: 2021-09-22 16:13:58.808962000 Z
+# Common libraries that are missing licenses
 - - :license
   - brakeman
   - MIT
