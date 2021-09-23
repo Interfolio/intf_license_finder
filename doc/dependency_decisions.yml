@@ -1,0 +1,110 @@
+---
+- - :permit
+  - MIT
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:03:16.476642000 Z
+- - :permit
+  - Apache 2.0
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:10:39.448875000 Z
+- - :permit
+  - ruby
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:10:48.884010000 Z
+- - :permit
+  - Simplified BSD
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:11:10.182684000 Z
+- - :permit
+  - New BSD
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:11:15.749524000 Z
+- - :permit
+  - 2-clause BSDL
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:11:45.561537000 Z
+- - :permit
+  - LGPL
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:12:05.556064000 Z
+- - :approve
+  - byc-common
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:13:03.718742000 Z
+- - :approve
+  - byc-api-client
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:13:10.444814000 Z
+- - :approve
+  - caasbox_client
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:13:15.495779000 Z
+- - :approve
+  - interfolio-simplecov
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:13:22.106382000 Z
+- - :approve
+  - fs_formatter
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:13:30.223867000 Z
+- - :approve
+  - home_client
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:13:37.219789000 Z
+- - :approve
+  - intf-active-jobs
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:13:42.121327000 Z
+- - :approve
+  - intf_datadog
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:13:48.377318000 Z
+- - :approve
+  - intf_platform
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:13:53.693095000 Z
+- - :approve
+  - lodge
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:13:58.808962000 Z
+- - :license
+  - brakeman
+  - MIT
+  - :who:
+    :why:
+    :versions: []
+    :when: 2021-09-22 16:56:17.919588000 Z
